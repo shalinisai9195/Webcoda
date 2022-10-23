@@ -1,0 +1,27 @@
+
+@media screen and (min-width: 400px){
+     body{
+        background-color: #fcde67;
+        color: #13a3d8;
+        font-size: large;
+        
+      
+     }
+     
+  
+}
+@media screen and (min-width:600px){
+    body{
+        background-color: #2b6777;
+        color: #ffffff;
+        
+       }
+}
+
+@media screen and (max-width: 400px){
+    body{
+        background-color: #f0a3bc;
+        color: #397754;
+        font-size: medium;
+    }
+}
